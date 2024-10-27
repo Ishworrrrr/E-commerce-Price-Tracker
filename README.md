@@ -3,12 +3,12 @@
 Welcome to the **E-commerce Price Tracker**! This project is designed to monitor product prices on **Flipkart** and send notifications when prices fall below a specified threshold. The program uses Python and various libraries to scrape product information, making it ideal for those looking to track price changes and get the best deals.
 
 ## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+- [Features](https://github.com/Ishworrrrr/E-commerce-Price-Tracker/blob/main/README.md#features-)
+- [Technologies Used](https://github.com/Ishworrrrr/E-commerce-Price-Tracker/blob/main/README.md#technologies-used-)
+- [Getting Started](https://github.com/Ishworrrrr/E-commerce-Price-Tracker/blob/main/README.md#getting-started-)
+- [Usage](https://github.com/Ishworrrrr/E-commerce-Price-Tracker/blob/main/README.md#usage-)
+- [Future Enhancements](https://github.com/Ishworrrrr/E-commerce-Price-Tracker/blob/main/README.md#future-enhancements-)
+- [License](https://github.com/Ishworrrrr/E-commerce-Price-Tracker/blob/main/README.md#license-)
 
 ---
 
