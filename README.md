@@ -54,7 +54,7 @@ Welcome to the **E-commerce Price Tracker**! This project is designed to monitor
 1. **Modify the Product URL**: Update the product URL in the code with the link to your desired Flipkart product.
 2. **Run the Script**:
    ```bash
-   python web_scraping_script.py
+   python flipkart_scrapping.py
    ```
 3. **Receive Notifications**: You’ll get a notification if the product price falls below the set threshold.
 
