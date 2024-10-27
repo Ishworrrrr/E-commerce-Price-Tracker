@@ -36,7 +36,7 @@ Welcome to the **E-commerce Price Tracker**! This project is designed to monitor
 
 1. **Clone the repository**:
    ```bash
-   git clone https://[github.com/Ishworrrrr/E-commerce-Price-Tracker]
+   git clone https://github.com/Ishworrrrr/E-commerce-Price-Tracker
    cd E-commerce-Price-Tracker
    ```
 
